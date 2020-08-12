@@ -58,6 +58,11 @@ A few of the things I'm currently working on:
   - Procedural SQL
     - MariaDB/MySQL
     - Oracle PL/SQL
+- Human Languages (in order of most to least proficient)
+  - English
+  - French
+  - Spanish
+  - German
     
 
 Please feel free to fork or star any of my repos that you find interesting. If you have any questions, the best way to 
