@@ -14,7 +14,7 @@ A few of the things I'm currently working on:
 - A Java-based ORM framework for MySQL focused on minimalism ([ReflectDB](https://github.com/dustinkredmond/ReflectDB))
 - A web-based UI to allow running Groovy scripts on a schedule ([GroovyServer](https://github.com/dustinkredmond/GroovyServer))
 - A JavaFX based cross-platform clipboard history manager that looks great on Linux and MacOS ([ClipBoard++](https://github.com/dustinkredmond/ClipBoardPlusPlus))
-- Various custom Controls for the JavaFX GUI framework (not quite production ready, repo is private) ([coming soon...](https://github.com/dustinkredmond))
+- An abstraction of the AWT System Tray Icon for JavaFX, since JavaFX is missing this functionality natively ([FXTrayIcon](https://github.com/dustinkredmond/FXTrayIcon))
 - A smattering of microservices and utility applications for various small tasks
 
 **A non-exhaustive list of technologies that I regularly use:**
