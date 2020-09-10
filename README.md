@@ -33,6 +33,10 @@ A few of the things I'm currently working on:
       - Spring Security
       - Spring JPA
     - ZK Framework (because AJAX is messy)   
+- **Groovy**
+  - Grails
+  - GORM
+  - Metaprogramming
 - **Python**
   - Web
     - Flask
