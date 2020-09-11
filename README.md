@@ -47,6 +47,9 @@ A few of the things I'm currently working on:
     - sklearn
   - Dynamic programming
   - PyQt
+- **C#**
+  - Windows/Linux apps
+  - Web applications
 - **C++**
   - Boost
   - ROOT (large data processing)
