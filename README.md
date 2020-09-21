@@ -1,8 +1,7 @@
 ### Thanks for visiting
 
 I'm a self-taught software developer currently working in a
-non-developer role at work. I've been writing code since I was 13 years old, even longer if you
-consider HTML a programming language. (although I wouldn't agree, it's HTML, not HTPL)
+non-developer role at work. I've been writing code since I was 13 years old; I got my start using the LAMPP stack (Linux, Apache, MySQL, PHP and Perl).
 
 
 I usually find myself hacking together some neat little tool here and there, and I fancy
