@@ -31,6 +31,7 @@ A few of the things I'm currently working on:
       - SpringBoot
       - Spring Security
       - Spring Data JPA
+      - Spring Data JDBC
     - ZK Framework (because AJAX is messy)   
 - **Groovy**
   - Grails
