@@ -30,7 +30,7 @@ A few of the things I'm currently working on:
     - Spring
       - SpringBoot
       - Spring Security
-      - Spring JPA
+      - Spring Data JPA
     - ZK Framework (because AJAX is messy)   
 - **Groovy**
   - Grails
