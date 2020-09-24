@@ -65,6 +65,13 @@ A few of the things I'm currently working on:
   - Procedural SQL
     - MariaDB/MySQL
     - Oracle PL/SQL
+- **3D Printing**
+  - 3D Design
+    - FreeCAD
+    - OpenSCAD
+  - Production
+    - I'll make your design and ship it to you for 
+    a reasonable fee. Inquire via my email below.
 - Human Languages (in order of most to least proficient)
   - English
   - French
