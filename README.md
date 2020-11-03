@@ -15,7 +15,7 @@ A few of the things I'm currently working on:
 - A JavaFX based cross-platform clipboard history manager that looks great on Linux and MacOS ([ClipBoard++](https://github.com/dustinkredmond/ClipBoardPlusPlus#readme))
 - An abstraction of the AWT System Tray Icon for JavaFX, since JavaFX is missing this functionality natively ([FXTrayIcon](https://github.com/dustinkredmond/FXTrayIcon#readme))
 - A cross-platform GitHub Gist desktop client with syntax highlighting and code completion ([GistFX](https://github.com/dustinkredmond/GistFX#readme))
-- A smattering of microservices and utility applications for various small tasks
+- A desktop client to easily create/modify API routes in real time based on the Spark Java micro-framework. ([SparkFX](https://github.com/dustinkredmond/sparkfx#readme))
 
 **A non-exhaustive list of technologies that I regularly use:**
 
