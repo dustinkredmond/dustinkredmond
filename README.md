@@ -19,6 +19,10 @@ A few of the things I'm currently working on:
 
 **A non-exhaustive list of technologies that I regularly use:**
 
+- **Web**
+  - HTML
+  - CSS (I love making responsive designs)
+  - JavaScript client-side and server-side (Node.js)
 - **Java**
   - GUI development
     - Java Swing
