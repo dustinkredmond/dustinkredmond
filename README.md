@@ -10,7 +10,7 @@ being able to help fix a bug or create a feature wherever I can.
 
 A few of the things I'm currently working on:
 
-- A Java-based ORM framework for MySQL and MariaDB focused on minimalism ([ReflectDB](https://github.com/dustinkredmond/ReflectDB#readme))
+- A minimalistic Java-based ORM framework for SQLite ([LiteORM](https://github.com/dustinkredmond/LiteORM#readme))
 - A web-based UI to allow running Groovy scripts on a schedule ([GroovyServer](https://github.com/dustinkredmond/GroovyServer#readme))
 - A JavaFX based cross-platform clipboard history manager that looks great on Linux and MacOS ([ClipBoard++](https://github.com/dustinkredmond/ClipBoardPlusPlus#readme))
 - An abstraction of the AWT System Tray Icon for JavaFX, since JavaFX is missing this functionality natively ([FXTrayIcon](https://github.com/dustinkredmond/FXTrayIcon#readme))
