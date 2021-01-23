@@ -1,12 +1,11 @@
 ### Thanks for visiting
 
 I'm a self-taught software developer currently working in a
-non-developer role at work. I've been writing code since I was 13 years old; I got my start using the LAMPP stack (Linux, Apache, MySQL, PHP and Perl).
+non-developer role at work. 
 
 
-I usually find myself hacking together some neat little tool here and there, and I fancy
-applications that do one job really well. I actively contribute to open-source and enjoy
-being able to help fix a bug or create a feature wherever I can.
+I primarily enjoy writing tools and libraries for developers, though I've authored several desktop applications for
+non-technical users as well.
 
 A few of the things I'm currently working on:
 
@@ -77,5 +76,6 @@ A few of the things I'm currently working on:
   - German
     
 
-Please feel free to fork or star any of my repos that you find interesting. If you have any questions, the best way to 
+Please feel free to fork or star any of my repos that you find interesting. If you'd really like to help me out,
+consider sponsoring me on GitHub sponsors. If you have any questions, the best way to 
 get in touch is [my personal email](mailto:dustin@dustinredmond.com). Thanks for stopping by!
