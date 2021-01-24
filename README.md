@@ -69,10 +69,10 @@ A few of the things I'm currently working on:
   - Procedural SQL
     - MariaDB/MySQL
     - Oracle PL/SQL
-- Human Languages (in order of most to least proficient)
+- **Human Languages (in order of most to least proficient)**
   - English
-  - French
   - Spanish
+  - French
   - German
     
 
