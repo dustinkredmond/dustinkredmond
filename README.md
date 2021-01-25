@@ -19,8 +19,7 @@ A few of the things I'm currently working on:
 **A non-exhaustive list of technologies that I regularly use:**
 
 - **Web**
-  - HTML
-  - CSS (I love making responsive designs)
+  - HTML/CSS 
   - JavaScript client-side and server-side (Node.js)
 - **Java**
   - GUI development
@@ -32,31 +31,20 @@ A few of the things I'm currently working on:
   - Enterprise Frameworks
     - Hibernate
     - Spring
-      - SpringBoot
-      - Spring Security
-      - Spring Data JPA
-      - Spring Data JDBC
     - ZK Framework (because AJAX is messy)   
 - **Groovy**
   - Grails
   - GORM
-  - Metaprogramming
 - **Python**
   - Web
     - Flask
     - Django
-  - Data Science
-    - pandas
-    - matplotlib
-    - sklearn
-  - Dynamic programming
   - PyQt
 - **C#**
   - Windows/Linux apps
   - Web applications
 - **C++**
   - Boost
-  - ROOT (large data processing)
   - Qt
   - MySQL++
 - **C**
@@ -65,7 +53,6 @@ A few of the things I'm currently working on:
   - Databases
     - MySQL/MariaDB
     - Oracle
-    - SQLite
   - Procedural SQL
     - MariaDB/MySQL
     - Oracle PL/SQL
