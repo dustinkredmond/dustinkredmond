@@ -65,4 +65,4 @@ A few of the things I'm currently working on:
 
 Please feel free to fork or star any of my repos that you find interesting. If you'd really like to help me out,
 consider sponsoring me on GitHub sponsors. If you have any questions, the best way to 
-get in touch is [my personal email](mailto:dustin@dustinredmond.com). Thanks for stopping by!
+get in touch is [my personal email](mailto:dustinkredmond@gmail.com). Thanks for stopping by!
