@@ -23,36 +23,22 @@ A few of the things I'm currently working on:
   - JavaScript client-side and server-side (Node.js)
 - **Java**
   - GUI development
-    - Java Swing
-    - JavaFX
-    - A few different web frameworks
   - Java JDK8 (Generics, lambdas, etc.)
   - Java JDK9+ (Modular programs, jlink)
-  - Enterprise Frameworks
-    - Hibernate
-    - Spring
-    - ZK Framework (because AJAX is messy)   
+  - Hibernate
+  - Spring
+  - ZK Framework (because AJAX is messy)   
 - **Groovy**
   - Grails
-  - GORM
 - **Python**
   - Web
-    - Flask
-    - Django
   - PyQt
 - **C#**
   - Windows/Linux apps
   - Web applications
-- **C++**
-  - Boost
-  - Qt
-  - MySQL++
-- **C**
-  - Just enough to be dangerous
+- **C/C++**
 - **SQL**
   - Databases
-    - MySQL/MariaDB
-    - Oracle
   - Procedural SQL
     - MariaDB/MySQL
     - Oracle PL/SQL
@@ -63,6 +49,6 @@ A few of the things I'm currently working on:
   - German
     
 
-Please feel free to fork or star any of my repos that you find interesting. If you'd really like to help me out,
+Please feel free to star any of my repos that you find interesting. If you'd really like to help me out,
 consider sponsoring me on GitHub sponsors. If you have any questions, the best way to 
-get in touch is [my personal email](mailto:dustinkredmond@gmail.com). Thanks for stopping by!
+get in touch is my personal email on my GitHub profile. Thanks for stopping by!
