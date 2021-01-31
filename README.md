@@ -16,32 +16,15 @@ A few of the things I'm currently working on:
 - A cross-platform GitHub Gist desktop client with syntax highlighting and code completion ([GistFX](https://github.com/dustinkredmond/GistFX#readme))
 - A desktop client to easily create/modify API routes in real time based on the Spark Java micro-framework. ([SparkFX](https://github.com/dustinkredmond/sparkfx#readme))
 
-**A non-exhaustive list of technologies that I regularly use:**
+**A non-exhaustive list of languages I like to work in:**
 
-- **Web**
-  - HTML/CSS 
-  - JavaScript client-side and server-side (Node.js)
+- **HTML/CSS/JavaScript**
 - **Java**
-  - GUI development
-  - Java JDK8 (Generics, lambdas, etc.)
-  - Java JDK9+ (Modular programs, jlink)
-  - Hibernate
-  - Spring
-  - ZK Framework (because AJAX is messy)   
 - **Groovy**
-  - Grails
 - **Python**
-  - Web
-  - PyQt
 - **C#**
-  - Windows/Linux apps
-  - Web applications
 - **C/C++**
-- **SQL**
-  - Databases
-  - Procedural SQL
-    - MariaDB/MySQL
-    - Oracle PL/SQL
+- **SQL and PL/SQL**
 - **Human Languages (in order of most to least proficient)**
   - English
   - Spanish
