@@ -18,14 +18,14 @@ A few of the things I'm currently working on:
 
 **A non-exhaustive list of languages I like to work in:**
 
-- **HTML/CSS/JavaScript**
-- **Java**
-- **Groovy**
-- **Python**
-- **C#**
-- **C/C++**
-- **SQL and PL/SQL**
-- **Human Languages (in order of most to least proficient)**
+- HTML/CSS/JavaScript
+- Java
+- Groovy
+- Python
+- C#
+- C/C++
+- SQL and PL/SQL
+- Human Languages (in order of most to least proficient)
   - English
   - Spanish
   - French
