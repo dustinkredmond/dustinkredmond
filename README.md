@@ -32,6 +32,6 @@ A few of the things I'm currently working on:
   - German
     
 
-Please feel free to star any of my repos that you find interesting. If you'd really like to help me out,
+Please consider starring any of my repos that you find interesting. If you'd really like to help me out,
 consider sponsoring me on GitHub sponsors. If you have any questions, the best way to 
 get in touch is my personal email on my GitHub profile. Thanks for stopping by!
