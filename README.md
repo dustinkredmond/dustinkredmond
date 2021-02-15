@@ -19,6 +19,8 @@ A few of the things I'm currently working on:
 **A non-exhaustive list of languages I like to work in:**
 
 - HTML/CSS/JavaScript
+  - NodeJS
+  - React & React Native
 - Java
 - Groovy
 - Python
