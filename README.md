@@ -22,9 +22,15 @@ A few of the things I'm currently working on:
   - NodeJS
   - React & React Native
 - Java
+ - J2EE
+ - JDK 8 & JDK 9+ (JPMS)
 - Groovy
+  - Grails & GORM
 - Python
+  - Django, Flask
+  - pandas, sklearn
 - C#
+  - WPF
 - C/C++
 - Go
 - SQL and PL/SQL
