@@ -33,6 +33,7 @@ A few of the things I'm currently working on:
   - WPF
 - C/C++
 - Go
+  - Just started learning, but I am LOVING it. :smile:
 - SQL and PL/SQL
 - Human Languages (in order of most to least proficient)
   - English
