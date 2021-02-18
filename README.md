@@ -1,11 +1,8 @@
 ### Thanks for visiting
 
-I'm a self-taught software developer currently working in a
-non-developer role at work. 
-
-
-I primarily enjoy writing tools and libraries for developers, though I've authored several desktop applications for
-non-technical users as well.
+I'm a self-taught software developer.
+I enjoy working on cultivating developer tools as well as desktop applications.
+I love back end development, but like to get my hands dirty with occasional front end development as well.
 
 A few of the things I'm currently working on:
 
@@ -18,7 +15,6 @@ A few of the things I'm currently working on:
 - A desktop client to easily create/modify web API routes in real time based on the Spark Java framework. Users of Express JS will love the familiarity this application provides. ([SparkFX](https://github.com/dustinkredmond/sparkfx#readme))
 - And more...
 
-I love spending my free time developing desktop JavaFX applications. I'm passionate about the framework, its intention to go a step above Java's Swing GUI toolkit as well as bringing a modern look and feel to desktop Java applications continue to draw me in.
 
 Please consider starring any of my repos that you find interesting. If you'd really like to help me out,
 consider sponsoring me on GitHub sponsors. I'm happy to help with your repo, code review, or provide advice.
