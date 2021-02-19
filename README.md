@@ -7,7 +7,7 @@ I love back end development, but like to get my hands dirty with occasional fron
 A few of the things I'm currently working on:
 
 - An implementation of the System Tray Icon for JavaFX applications, JavaFX doesn't support this, so someone had to write it ([FXTrayIcon](https://github.com/dustinkredmond/FXTrayIcon#readme))
-- Library for ***easily*** displaying input/alert dialogs in JavaFX programs ([FXAlert](https://github.com/dustinkredmond/FXAlert))
+- Library for **easily** displaying input/alert dialogs in JavaFX programs ([FXAlert](https://github.com/dustinkredmond/FXAlert))
 - A minimalistic pure Java non-ORM framework for SQLite. Kick those database relations to the side, while still using a SQLite database for storage. Great for testing or scaffolding. ([LiteORM](https://github.com/dustinkredmond/LiteORM#readme))
 - A multi user web-based application to let users run Groovy scripts either on demand or on a schedule. Great for simple or complex scripts, automate tasks with easy script definitions. Run scripts daily, hourly, each minute, or use a cron expression for even more customizability. ([GroovyServer](https://github.com/dustinkredmond/GroovyServer#readme))
 - A clipboard history manager that looks great on Linux, MacOS, and Windows. Why send your data to Microsoft or other remote organizations when you can store and access it locally? Forget accidentally copying over clipboard data. With ClipBoard++, your clipboard history is **always** available. ([ClipBoard++](https://github.com/dustinkredmond/ClipBoardPlusPlus#readme))
