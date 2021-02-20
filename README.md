@@ -13,7 +13,7 @@ A few of the things I'm currently working on:
 - A clipboard history manager that looks great on Linux, MacOS, and Windows. Why send your data to Microsoft or other remote organizations when you can store and access it locally? Forget accidentally copying over clipboard data. With ClipBoard++, your clipboard history is **always** available. ([ClipBoard++](https://github.com/dustinkredmond/ClipBoardPlusPlus#readme))
 - A cross-platform GitHub Gist desktop client. Think of it as Notepad or TextEdit backed by GitHub's cloud infrastructure. ([GistFX](https://github.com/dustinkredmond/GistFX#readme))
 - A desktop client to easily create/modify web API routes in real time based on the Spark Java framework. Users of Express JS will love the familiarity this application provides. ([SparkFX](https://github.com/dustinkredmond/sparkfx#readme))
-- And more...
+- And countless other tools that don't yet merit public repos...
 
 
 Please consider starring any of my repos that you find interesting. If you'd really like to help me out,
