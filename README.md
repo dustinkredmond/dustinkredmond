@@ -17,5 +17,5 @@ A few of the things I'm currently working on:
 
 
 Please consider starring any of my repos that you find interesting. If you'd really like to help me out,
-consider sponsoring me on GitHub sponsors. I'm happy to help with your repo, code review, or provide advice.
+consider sponsoring me on GitHub sponsors. I'm happy to provide advice or answer questions.
 My email address is on my GitHub profile, so please don't hesitate to shoot me a message.
