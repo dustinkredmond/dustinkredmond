@@ -15,7 +15,7 @@ A few of the things I'm currently working on:
 - A desktop client to easily create/modify web API routes in real time based on the Spark Java framework. Users of Express JS will love the familiarity this application provides. ([SparkFX](https://github.com/dustinkredmond/sparkfx#readme))
 - And countless other tools that don't yet merit public repos...
 
-As you can tell from the above. I really love working in Java and JavaFX in my free time.
+I really love working in Java and JavaFX in my free time.
 I'm also proficient in C/C++, C#, JavaScript, and have just recently started learning Google's Go.
 I've always thought that multi-threading and concurrency in general should be able to be done cleaner,
 so expect to see more and more tools/projects written in GoLang.
