@@ -1,6 +1,6 @@
 ### Thanks for visiting
 
-I'm a self-taught software developer.
+I'm a self-taught developer.
 I enjoy working on cultivating developer tools as well as desktop applications.
 I love back end development, and like to get my hands dirty with occasional front end development as well.
 
