@@ -14,4 +14,4 @@ A few of the things I'm currently working on:
 - A desktop client to easily create/modify web API routes in real time based on the Spark Java framework. Users of Express JS will love the familiarity this application provides. ([SparkFX](https://github.com/dustinkredmond/sparkfx#readme))
 
 Please consider starring any of my repos that you find interesting. If you'd really like to help me out,
-consider sponsoring me on GitHub sponsors. My email address is on my GitHub profile, so please don't hesitate to shoot me a message.
+consider sponsoring me on GitHub sponsors. My email address is on my GitHub profile, so please don't hesitate to shoot me a message with questions/concerns/etc.
