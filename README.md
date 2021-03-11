@@ -2,7 +2,7 @@
 
 I'm a self-taught developer.
 I enjoy creating developer tools as well as desktop applications.
-I love back end development, and like to get my hands dirty with occasional front end development as well.
+I love both back end and frontend development, though I'm not an artist. 😅
 
 A few of the things I'm currently working on:
 
