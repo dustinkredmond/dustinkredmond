@@ -2,7 +2,7 @@
 
 I'm a self-taught developer.
 I enjoy creating developer tools as well as desktop applications.
-I love both back end and frontend development.
+I work primarily with Java and C/C++ in my free time and SAP ABAP at work.
 
 A few of the things I'm currently working on:
 
