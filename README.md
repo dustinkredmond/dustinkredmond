@@ -4,7 +4,7 @@ I'm a self-taught developer.
 I enjoy creating developer tools as well as desktop applications.
 I work primarily with Java and C/C++ in my free time and SAP ABAP at work.
 
-A few things I'm currently working on:
+A few things I'm working on in my free time:
 
 - An implementation of the System Tray Icon for JavaFX applications, JavaFX doesn't support this, so someone had to write it ([FXTrayIcon](https://github.com/dustinkredmond/FXTrayIcon#readme))
 - Library for **easily** displaying input/alert dialogs in JavaFX programs ([FXAlert](https://github.com/dustinkredmond/FXAlert))
